@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[anechoic]]></title>
         <description><![CDATA[anechoic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anechoic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:37:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 21:48:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anechoic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7711378b-1e7d-4599-8c72-09a1edf8a200.jpg">]]></description>
+            <link>https://thegrid.ai/anechoic/the-anechoic-grid/index.html</link>
+            <guid isPermaLink="false">15a58442-2ba0-4ba7-958e-d0d2b898b2f1</guid>
+            <pubDate>Wed, 04 May 2016 21:48:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I don't know how I got here. But I want to find out.</p>]]></description>
-            <link>undefinedi-dont-know-how-i-got-here-but-i-want-to-find-out/index.html</link>
+            <link>https://thegrid.ai/anechoic/i-dont-know-how-i-got-here-but-i-want-to-find-out/index.html</link>
             <guid isPermaLink="false">6d1cf735-6a53-45dc-8b19-f5c39f7f1016</guid>
             <pubDate>Wed, 04 May 2016 17:37:00 GMT</pubDate>
         </item>
