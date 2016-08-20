@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[anechoic]]></title>
-        <description><![CDATA[anechoic]]></description>
+        <title><![CDATA[Anechoic]]></title>
+        <description><![CDATA[Anechoic]]></description>
         <link>https://thegrid.ai/anechoic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 21:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 22:45:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anechoic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7711378b-1e7d-4599-8c72-09a1edf8a200.jpg">]]></description>
+            <title><![CDATA[Welcome to the Anechoic.]]></title>
+            <description><![CDATA[<article><h1>Welcome to the Anechoic.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7711378b-1e7d-4599-8c72-09a1edf8a200.jpg"></article>]]></description>
             <link>https://thegrid.ai/anechoic/the-anechoic-grid/index.html</link>
             <guid isPermaLink="false">15a58442-2ba0-4ba7-958e-d0d2b898b2f1</guid>
-            <pubDate>Wed, 04 May 2016 21:48:54 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2016 22:45:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
