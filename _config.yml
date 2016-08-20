@@ -1,19 +1,4 @@
-name: anechoic
-favicon: null
-layout_spectrum: 0.7085947922896594
 typography_spectrum: 0.9918110480066389
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8260627177078277
   saturation: 0.8038909973111004
   rhythmicContrast: 0.1617348762229085
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7085947922896594
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: anechoic
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Anechoic
 purpose: []
